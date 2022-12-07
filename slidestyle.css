@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100h;
+    min-height: 100vh;
     font-family: 'jost' , sans-serif;
     background: linear-gradient(to botton #0f0c29, #302b63, #24243c);
 }
